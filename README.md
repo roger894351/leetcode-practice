@@ -6,6 +6,7 @@ Personal Python solutions to LeetCode problems, organized by topic.
 
 | # | Problem | Difficulty | Topic | Solution | Notes |
 |---|---------|------------|-------|----------|-------|
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | strings | [solution](./strings/1768_merge_strings_alternately.py) | zip + slicing |
 
 ## Topics
 
@@ -28,5 +29,5 @@ Personal Python solutions to LeetCode problems, organized by topic.
 
 ## Stats
 
-- Total solved: 0
-- Easy: 0 | Medium: 0 | Hard: 0
+- Total solved: 1
+- Easy: 1 | Medium: 0 | Hard: 0
