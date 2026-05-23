@@ -6,6 +6,7 @@ Personal Python solutions to LeetCode problems, organized by topic.
 
 | # | Problem | Difficulty | Topic | Solution | Notes |
 |---|---------|------------|-------|----------|-------|
+| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | strings / math | [solution](./strings/1071_greatest_common_divisor_of_strings.py) | brute force + GCD trick |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | strings | [solution](./strings/1768_merge_strings_alternately.py) | zip + slicing |
 
 ## Topics
@@ -29,5 +30,5 @@ Personal Python solutions to LeetCode problems, organized by topic.
 
 ## Stats
 
-- Total solved: 1
-- Easy: 1 | Medium: 0 | Hard: 0
+- Total solved: 2
+- Easy: 2 | Medium: 0 | Hard: 0
